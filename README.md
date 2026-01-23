@@ -1,5 +1,4 @@
 # SimpleDiscordAgent
-This is for educational purposes only! Don't actually use this 😉
 
 
 Here is step by step process on how to use the agent. For this repo, this will be running locally, so your computer should be able to load and run a model in order for this to work. 
